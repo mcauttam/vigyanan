@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100.98%">
+            <stop offset="0%" stop-color="#7D8FAF"/>
+            <stop offset="100%" stop-color="#55698D"/>
+        </linearGradient>
+        <path id="b" d="M15.652 1.739h8.696v8.696h-8.696z"/>
+        <filter id="c" width="146%" height="146%" x="-23%" y="-23%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="d" d="M29.565 15.652h8.696v8.696h-8.696z"/>
+        <filter id="e" width="146%" height="146%" x="-23%" y="-23%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="f" d="M29.565 1.739h8.696v8.696h-8.696z"/>
+        <filter id="g" width="146%" height="146%" x="-23%" y="-23%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="1.5"/>
+            <feOffset dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect width="48" height="48" fill="#EDF1F7" rx="24"/>
+        <g transform="translate(16 16)">
+            <use fill="url(#a)" xlink:href="#b"/>
+            <use fill="#000" filter="url(#c)" xlink:href="#b"/>
+        </g>
+        <g transform="translate(16 16)">
+            <use fill="url(#a)" xlink:href="#d"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+        </g>
+        <g transform="translate(16 16)">
+            <use fill="url(#a)" xlink:href="#f"/>
+            <use fill="#000" filter="url(#g)" xlink:href="#f"/>
+        </g>
+        <path fill="url(#a)" fill-rule="nonzero" d="M9.565 12.174H2.61A2.612 2.612 0 0 1 0 9.565V2.61A2.612 2.612 0 0 1 2.609 0h6.956a2.612 2.612 0 0 1 2.609 2.609v6.956a2.612 2.612 0 0 1-2.609 2.609zM2.61 1.739a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87V2.61a.87.87 0 0 0-.87-.87H2.61zM9.565 26.087H2.61A2.612 2.612 0 0 1 0 23.478v-6.956a2.612 2.612 0 0 1 2.609-2.609h6.956a2.612 2.612 0 0 1 2.609 2.609v6.956a2.612 2.612 0 0 1-2.609 2.609zM2.61 15.652a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87v-6.956a.87.87 0 0 0-.87-.87H2.61zM23.478 26.087h-6.956a2.612 2.612 0 0 1-2.609-2.609v-6.956a2.612 2.612 0 0 1 2.609-2.609h6.956a2.612 2.612 0 0 1 2.609 2.609v6.956a2.612 2.612 0 0 1-2.609 2.609zm-6.956-10.435a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87v-6.956a.87.87 0 0 0-.87-.87h-6.956zM9.565 40H2.61A2.612 2.612 0 0 1 0 37.391v-6.956a2.612 2.612 0 0 1 2.609-2.609h6.956a2.612 2.612 0 0 1 2.609 2.609v6.956A2.612 2.612 0 0 1 9.565 40zM2.61 29.565a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87v-6.956a.87.87 0 0 0-.87-.87H2.61zM23.478 40h-6.956a2.612 2.612 0 0 1-2.609-2.609v-6.956a2.612 2.612 0 0 1 2.609-2.609h6.956a2.612 2.612 0 0 1 2.609 2.609v6.956A2.612 2.612 0 0 1 23.478 40zm-6.956-10.435a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87v-6.956a.87.87 0 0 0-.87-.87h-6.956zM37.391 40h-6.956a2.612 2.612 0 0 1-2.609-2.609v-6.956a2.612 2.612 0 0 1 2.609-2.609h6.956A2.612 2.612 0 0 1 40 30.435v6.956A2.612 2.612 0 0 1 37.391 40zm-6.956-10.435a.87.87 0 0 0-.87.87v6.956c0 .48.39.87.87.87h6.956c.48 0 .87-.39.87-.87v-6.956a.87.87 0 0 0-.87-.87h-6.956z" transform="translate(16 16)"/>
+    </g>
+</svg>
